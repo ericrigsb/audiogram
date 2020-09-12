@@ -101,5 +101,16 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+  },
+  "BITL": {
+    "width": 640,
+    "height": 640,
+    "pattern": "bars",
+    "foregroundColor": "#FFFFFF",
+    "backgroundImage": "BITL-640x640.png",
+    "waveTop": 620,
+    "captionTop": 20,
+    "captionRight": 20,
+    "captionLeft": 620
   }
 }

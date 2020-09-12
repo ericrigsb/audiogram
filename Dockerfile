@@ -18,5 +18,9 @@ WORKDIR /home/audiogram
 RUN git clone https://github.com/nypublicradio/audiogram.git
 WORKDIR /home/audiogram/audiogram
 
+# Add my theme
+COPY settings/backgrounds/BITL-640x640.png settings/backgrounds/
+COPY settings/themes.json settings/
+
 # Install dependencies
 RUN npm install
