@@ -19,4 +19,4 @@ RUN git clone https://github.com/ericrigsb/audiogram.git
 WORKDIR /home/audiogram/audiogram
 
 # Install dependencies
-RUN npm install --prefer-offline --no-audit --progress=false
+RUN npm install
