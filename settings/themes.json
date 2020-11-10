@@ -112,5 +112,16 @@
     "captionTop": 20,
     "captionRight": 20,
     "captionLeft": 620
+  },
+  "VO": {
+    "width": 960,
+    "height": 640,
+    "pattern": "bars",
+    "foregroundColor": "#FFFFFF",
+    "backgroundImage": "microphone-1244140-960x640.jpg",
+    "waveTop": 620,
+    "captionTop": 20,
+    "captionRight": 20,
+    "captionLeft": 620
   }
 }
