@@ -109,7 +109,8 @@
     "foregroundColor": "#FFFFFF",
     "backgroundImage": "BITL-LOGO-LOW-480x480-SUB.jpg",
     "waveTop": 620,
-    "captionBottom": 20,
+    "captionFont": "bold 52px 'Source Sans Pro'",
+    "captionBottom": 10,
     "captionLeft": 20,
     "captionRight": 620
   },
