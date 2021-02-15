@@ -7,7 +7,7 @@ libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev libpng-dev build-essential
 ffmpeg \
 redis-server --yes
 
-# RUN ln -s `which nodejs` /usr/bin/node
+RUN ln -s `which nodejs` /usr/bin/node
 
 # Non-privileged user
 RUN useradd -m audiogram
