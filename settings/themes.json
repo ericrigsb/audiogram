@@ -110,6 +110,7 @@
     "backgroundImage": "BITL-LOGO-LOW-480x480-SUB.jpg",
     "waveTop": 620,
     "captionTop": 20,
+    "captionLeft": 20,
     "captionRight": 20
   },
   "VO": {
