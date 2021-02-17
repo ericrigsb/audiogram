@@ -114,6 +114,18 @@
     "captionLeft": 20,
     "captionRight": 620
   },
+  "BITL-FOD": {
+    "width": 640,
+    "height": 640,
+    "pattern": "bars",
+    "foregroundColor": "#FFFFFF",
+    "backgroundImage": "fieldofdreams.jpg",
+    "waveTop": 620,
+    "captionFont": "bold 48px 'Source Sans Pro'",
+    "captionBottom": 10,
+    "captionLeft": 20,
+    "captionRight": 620
+  },
   "VO": {
     "width": 960,
     "height": 640,
