@@ -114,12 +114,24 @@
     "captionLeft": 20,
     "captionRight": 620
   },
-  "BITL-FOD": {
+  "BITL-Jamiroquai": {
     "width": 640,
     "height": 640,
     "pattern": "bars",
     "foregroundColor": "#FFFFFF",
-    "backgroundImage": "fieldofdreams.jpg",
+    "backgroundImage": "jamiroquai.jpg",
+    "waveTop": 620,
+    "captionFont": "bold 48px 'Source Sans Pro'",
+    "captionBottom": 10,
+    "captionLeft": 20,
+    "captionRight": 620
+  },
+  "BITL-DrownOutJWa": {
+    "width": 640,
+    "height": 640,
+    "pattern": "bars",
+    "foregroundColor": "#FFFFFF",
+    "backgroundImage": "image1.jpg",
     "waveTop": 620,
     "captionFont": "bold 48px 'Source Sans Pro'",
     "captionBottom": 10,
