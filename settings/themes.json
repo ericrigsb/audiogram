@@ -118,7 +118,7 @@
     "width": 640,
     "height": 640,
     "pattern": "bars",
-    "foregroundColor": "#FFFFFF",
+    "foregroundColor": "#000000",
     "backgroundImage": "jamiroquai.jpg",
     "waveTop": 620,
     "captionFont": "bold 48px 'Source Sans Pro'",
