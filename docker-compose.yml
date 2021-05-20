@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  audiogram:
+    image: ericrigsb/audiogram
+    working_dir: /home/audiogram/audiogram
+    ports:
+      - "8888:8888"
+    command: bash -c "npm start"
